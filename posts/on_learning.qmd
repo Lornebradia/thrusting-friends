@@ -1,11 +1,16 @@
 ---
 title: "On learning about others"
 author: "Lorenzo Braschi"
+date: "15-03-2023"
+categories:
+  - learning
+  - schools
+
 ---
 
 When I was starting in HEMA, back in Madrid, we were of course doing Verdadera Destreza. That was the system we were _told_ we were following for all weapons - rapier, longsword, sword and buckler. Granted, for longsword we incorporated some terms from Kunst des Fechtens, and for sword and buckler we were _supposedly_ doing something from I.33, but Destreza was the glue that tied them all. 
 
-We were not even really much aware of the existence of other schools; we rarely travelled abroad, and not many practitioners from abroad came to our school. Some of us _migh_ have heard of authors such as Capoferro, Agrippa, Thibaut, Fabris, etc. but I suspect most people's knowledge of them came from __The Princess Bride__. 
+We were not even really much aware of the existence of other schools; we rarely travelled abroad, and not many practitioners from abroad came to our school. Some of us _might_ have heard of authors such as Capoferro, Agrippa, Thibaut, Fabris, etc. but I suspect most people's knowledge of them came from __The Princess Bride__. 
 
 ![](https://external-preview.redd.it/_nSPHzRJaeGMtU4lqiYaNJISvPfGpV0EF3ifhxq9RAY.jpg?auto=webp&s=7121d477719a0efbccbed16a77ab81ee674cc8d7){fig-align="center"}
 

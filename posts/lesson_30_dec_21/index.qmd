@@ -1,9 +1,0 @@
----
-title: "Lesson 30 December"
-author: "Lorenzo Braschi"
-date: "12/30/2021"
-categories: 
-  - cancelled
----
-
-Class cancelled due to diarrhoea and  vomiting. Yay.
