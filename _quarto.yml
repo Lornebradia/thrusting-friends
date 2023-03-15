@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Rapier class notes"
+  title: "A HEMAist blog"
   navbar:
     right:
       - about.qmd
