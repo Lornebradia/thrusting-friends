@@ -2,6 +2,7 @@
 title: "On learning about others"
 author: "Lorenzo Braschi"
 date: "15-03-2023"
+draft: false
 categories:
   - learning
   - schools
@@ -24,4 +25,20 @@ But we of course sort of inherited this dismissal of other schools. "Of course I
 
 The point I want to make here is a caveat for instructors: __you__ might take the bother to read all those sources, and find out what doesn't work in them, but you need to bring that knowledge to your students. If you just share your dismissal for those schools without explaining the why, you'll just train a bunch of people to be arrogant around other practitioners. I know I was one - probably I still am. 
 
+
+<script src="https://giscus.app/client.js"
+        data-repo="[ENTER REPO HERE]"
+        data-repo-id="[ENTER REPO ID HERE]"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="cobalt"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 
