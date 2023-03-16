@@ -27,16 +27,16 @@ The point I want to make here is a caveat for instructors: __you__ might take th
 
 
 <script src="https://giscus.app/client.js"
-        data-repo="[ENTER REPO HERE]"
-        data-repo-id="[ENTER REPO ID HERE]"
-        data-category="[ENTER CATEGORY NAME HERE]"
+        data-repo="Lornebradia/thrusting-friends"
+        data-repo-id="614528821"
+        data-category="Announcements"
         data-category-id="[ENTER CATEGORY ID HERE]"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="cobalt"
+        data-theme="light"
         data-lang="en"
         crossorigin="anonymous"
         async>
