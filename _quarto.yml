@@ -10,6 +10,9 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+  comments:
+    giscus:
+      repo: Lornebradia/thrusting-friends
 format:
   html:
     theme: cosmo
